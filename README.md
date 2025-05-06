@@ -1,2 +1,2 @@
 # portfolio
-This project is related to personal portfolio
+This portfolio is the profile of the employee
